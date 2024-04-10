@@ -96,6 +96,7 @@
             this.Controls.Add(this.numPort);
             this.Controls.Add(this.txtIP);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.numPort)).EndInit();
             this.ResumeLayout(false);

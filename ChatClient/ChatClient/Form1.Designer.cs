@@ -148,6 +148,7 @@
             this.Controls.Add(this.numHostPort);
             this.Controls.Add(this.txtServerIP);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.numHostPort)).EndInit();
             this.ResumeLayout(false);
