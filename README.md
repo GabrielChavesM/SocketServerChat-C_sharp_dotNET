@@ -16,3 +16,5 @@ SocketServerChat is a chat application built using socket client-server architec
 
 - **Multiple Client Support:** Multiple clients can connect to the server simultaneously.
 - **Real-time Communication:** Users can send and receive messages in real-time, facilitating interactive communication.
+
+![22Capturar](https://github.com/user-attachments/assets/04b1439a-a59f-434b-8aac-19a439e5dbb9)
